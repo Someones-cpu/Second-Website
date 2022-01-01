@@ -1,0 +1,74 @@
+a{
+    text-decoration: none;
+    color:red;
+}
+a.hover{
+    color: yellow;
+}
+body{
+    background-image:url("/istockphoto-1157106624-612x612.jpg");
+    background-position: center;
+    background-size: 200%;
+    opacity: 1;
+    
+}
+img{
+    opacity: 1;
+    
+}
+
+
+
+
+
+
+
+.titlu{
+    background-color: white;
+    text-decoration: solid ;
+    border: black solid 5px;
+    margin: auto;
+    width:60%;
+    text-align: center;
+}
+.categories{
+    border:5px darkgreen solid;
+    padding:20px;
+    font-family: cursive;
+    font-size: large;
+    margin:20px 0;
+    text-align: center;
+    
+    
+}
+.buttons input[type="button"]{
+    background-color: gray;
+    border: 2px solid white;
+    padding-bottom: 10px 15px;
+    color: white;
+    border-radius: 10px;
+    
+    
+}
+.buttons input[type="button"]:hover{
+    background-color: black;
+    animation-delay: 1;
+    
+}
+.lista{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: white;
+    
+
+
+}
+.lista h3{
+    background-color: white;
+    float:left;
+    width: 33.2%;
+    border: 1px dotted;
+    text-align: center;
+}
+
+
